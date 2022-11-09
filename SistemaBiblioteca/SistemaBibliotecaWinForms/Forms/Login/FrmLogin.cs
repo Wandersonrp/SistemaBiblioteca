@@ -1,6 +1,6 @@
 ﻿using SistemaBibliotecaWinForms.Servicos;
 
-namespace SistemaBibliotecaWinForms.Forms.FrmLogin
+namespace SistemaBibliotecaWinForms.Forms.Login
 {
     public partial class FrmLogin : Form
     {

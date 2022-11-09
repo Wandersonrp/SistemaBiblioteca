@@ -1,4 +1,4 @@
-﻿namespace SistemaBibliotecaWinForms.Forms.FrmLogin
+﻿namespace SistemaBibliotecaWinForms.Forms.Login
 {
     partial class FrmLogin
     {

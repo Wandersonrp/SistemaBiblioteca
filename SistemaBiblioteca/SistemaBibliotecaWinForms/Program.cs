@@ -1,5 +1,5 @@
-using SistemaBibliotecaWinForms.Forms.FrmCadastrar;
-using SistemaBibliotecaWinForms.Forms.FrmLogin;
+using SistemaBibliotecaWinForms.Forms.Cadastrar;
+using SistemaBibliotecaWinForms.Forms.Login;
 
 namespace SistemaBibliotecaWinForms
 {

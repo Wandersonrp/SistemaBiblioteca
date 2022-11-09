@@ -4,7 +4,6 @@ C:\Desenvolvimento\SistemaBiblioteca\SistemaBiblioteca\SistemaBibliotecaWinForms
 C:\Desenvolvimento\SistemaBiblioteca\SistemaBiblioteca\SistemaBibliotecaWinForms\bin\Debug\net6.0-windows\SistemaBibliotecaWinForms.dll
 C:\Desenvolvimento\SistemaBiblioteca\SistemaBiblioteca\SistemaBibliotecaWinForms\bin\Debug\net6.0-windows\SistemaBibliotecaWinForms.pdb
 C:\Desenvolvimento\SistemaBiblioteca\SistemaBiblioteca\SistemaBibliotecaWinForms\obj\Debug\net6.0-windows\SistemaBibliotecaWinForms.csproj.AssemblyReference.cache
-C:\Desenvolvimento\SistemaBiblioteca\SistemaBiblioteca\SistemaBibliotecaWinForms\obj\Debug\net6.0-windows\SistemaBibliotecaWinForms.Forms.FrmLogin.FrmLogin.resources
 C:\Desenvolvimento\SistemaBiblioteca\SistemaBiblioteca\SistemaBibliotecaWinForms\obj\Debug\net6.0-windows\SistemaBibliotecaWinForms.csproj.GenerateResource.cache
 C:\Desenvolvimento\SistemaBiblioteca\SistemaBiblioteca\SistemaBibliotecaWinForms\obj\Debug\net6.0-windows\SistemaBibliotecaWinForms.GeneratedMSBuildEditorConfig.editorconfig
 C:\Desenvolvimento\SistemaBiblioteca\SistemaBiblioteca\SistemaBibliotecaWinForms\obj\Debug\net6.0-windows\SistemaBibliotecaWinForms.AssemblyInfoInputs.cache
@@ -16,4 +15,5 @@ C:\Desenvolvimento\SistemaBiblioteca\SistemaBiblioteca\SistemaBibliotecaWinForms
 C:\Desenvolvimento\SistemaBiblioteca\SistemaBiblioteca\SistemaBibliotecaWinForms\obj\Debug\net6.0-windows\SistemaBibliotecaWinForms.genruntimeconfig.cache
 C:\Desenvolvimento\SistemaBiblioteca\SistemaBiblioteca\SistemaBibliotecaWinForms\obj\Debug\net6.0-windows\ref\SistemaBibliotecaWinForms.dll
 C:\Desenvolvimento\SistemaBiblioteca\SistemaBiblioteca\SistemaBibliotecaWinForms\obj\Debug\net6.0-windows\SistemaBibliotecaWinForms.Properties.Resources.resources
-C:\Desenvolvimento\SistemaBiblioteca\SistemaBiblioteca\SistemaBibliotecaWinForms\obj\Debug\net6.0-windows\SistemaBibliotecaWinForms.Forms.FrmCadastrar.FrmCadastrar.resources
+C:\Desenvolvimento\SistemaBiblioteca\SistemaBiblioteca\SistemaBibliotecaWinForms\obj\Debug\net6.0-windows\SistemaBibliotecaWinForms.Forms.Cadastrar.FrmCadastrar.resources
+C:\Desenvolvimento\SistemaBiblioteca\SistemaBiblioteca\SistemaBibliotecaWinForms\obj\Debug\net6.0-windows\SistemaBibliotecaWinForms.Forms.Login.FrmLogin.resources

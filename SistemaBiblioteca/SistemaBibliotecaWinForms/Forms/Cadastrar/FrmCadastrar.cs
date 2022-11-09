@@ -1,7 +1,7 @@
 ﻿using SistemaBibliotecaWinForms.Servicos;
-using SistemaBibliotecaWinForms.Forms.FrmLogin;
+using SistemaBibliotecaWinForms.Forms.Login;
 
-namespace SistemaBibliotecaWinForms.Forms.FrmCadastrar
+namespace SistemaBibliotecaWinForms.Forms.Cadastrar
 {
     public partial class FrmCadastrar : Form
     {

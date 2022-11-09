@@ -1,4 +1,4 @@
-﻿namespace SistemaBibliotecaWinForms.Forms.FrmCadastrar
+﻿namespace SistemaBibliotecaWinForms.Forms.Cadastrar
 {
     partial class FrmCadastrar
     {
@@ -224,8 +224,7 @@
             this.btnEntrar.Size = new System.Drawing.Size(362, 40);
             this.btnEntrar.TabIndex = 20;
             this.btnEntrar.Text = "Entrar";
-            this.btnEntrar.UseVisualStyleBackColor = false;
-            this.btnEntrar.Click += new System.EventHandler(this.BtnEntrarClick);
+            this.btnEntrar.UseVisualStyleBackColor = false;        
             // 
             // btnCadadastrar
             // 
