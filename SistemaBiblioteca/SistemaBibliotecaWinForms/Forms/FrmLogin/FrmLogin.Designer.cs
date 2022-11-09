@@ -70,13 +70,13 @@
             // lblLogin
             // 
             this.lblLogin.AutoSize = true;
-            this.lblLogin.Font = new System.Drawing.Font("Segoe UI", 24F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
+            this.lblLogin.Font = new System.Drawing.Font("Segoe UI", 20.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.lblLogin.ForeColor = System.Drawing.Color.White;
-            this.lblLogin.Location = new System.Drawing.Point(140, 24);
+            this.lblLogin.Location = new System.Drawing.Point(140, 30);
             this.lblLogin.Name = "lblLogin";
-            this.lblLogin.Size = new System.Drawing.Size(104, 45);
+            this.lblLogin.Size = new System.Drawing.Size(99, 37);
             this.lblLogin.TabIndex = 0;
-            this.lblLogin.Text = "Login";
+            this.lblLogin.Text = "LOGIN";
             // 
             // txbUsuario
             // 
