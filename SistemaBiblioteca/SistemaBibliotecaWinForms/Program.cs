@@ -1,4 +1,5 @@
 using SistemaBibliotecaWinForms.Forms.Cadastrar;
+using SistemaBibliotecaWinForms.Forms.CadastrarLivros;
 using SistemaBibliotecaWinForms.Forms.Login;
 
 namespace SistemaBibliotecaWinForms
@@ -14,7 +15,7 @@ namespace SistemaBibliotecaWinForms
             // To customize application configuration such as set high DPI settings or default font,
             // see https://aka.ms/applicationconfiguration.
             ApplicationConfiguration.Initialize();
-            Application.Run(new FrmCadastrar());
+            Application.Run(new FrmCadLivro());
         }
     }
 }
