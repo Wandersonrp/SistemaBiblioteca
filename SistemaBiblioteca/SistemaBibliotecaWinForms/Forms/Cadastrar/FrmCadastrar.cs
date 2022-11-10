@@ -1,5 +1,4 @@
 ﻿using SistemaBibliotecaWinForms.Servicos;
-using SistemaBibliotecaWinForms.Forms.Login;
 
 namespace SistemaBibliotecaWinForms.Forms.Cadastrar
 {
@@ -10,14 +9,14 @@ namespace SistemaBibliotecaWinForms.Forms.Cadastrar
             InitializeComponent();
         }
 
-        private void PcbSairClick(object sender, EventArgs e)
-        {
-            Application.Exit();
-        }
-
         private void CbxMostraSenhaClick(object sender, EventArgs e)
         {
             MostraOcultaSenhaServico.OcultarMostrarSenha(txbSenha, cbxMostraSenha);
+        }
+
+        private void PcbSairClick(object sender, EventArgs e)
+        {
+            Application.Exit();
         }
     }
 }

@@ -45,7 +45,7 @@
             this.pcbTelefone = new System.Windows.Forms.PictureBox();
             this.txbTelefone = new System.Windows.Forms.TextBox();
             this.btnEntrar = new System.Windows.Forms.Button();
-            this.btnCadadastrar = new System.Windows.Forms.Button();
+            this.btnCadastrar = new System.Windows.Forms.Button();
             this.cbxMostraSenha = new System.Windows.Forms.CheckBox();
             this.pnlCadastrar.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.pcbSair)).BeginInit();
@@ -224,22 +224,22 @@
             this.btnEntrar.Size = new System.Drawing.Size(362, 40);
             this.btnEntrar.TabIndex = 20;
             this.btnEntrar.Text = "Entrar";
-            this.btnEntrar.UseVisualStyleBackColor = false;        
+            this.btnEntrar.UseVisualStyleBackColor = false;
             // 
-            // btnCadadastrar
+            // btnCadastrar
             // 
-            this.btnCadadastrar.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(51)))), ((int)(((byte)(56)))), ((int)(((byte)(98)))));
-            this.btnCadadastrar.Cursor = System.Windows.Forms.Cursors.Hand;
-            this.btnCadadastrar.FlatAppearance.BorderSize = 0;
-            this.btnCadadastrar.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.btnCadadastrar.Font = new System.Drawing.Font("Segoe UI", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
-            this.btnCadadastrar.ForeColor = System.Drawing.Color.White;
-            this.btnCadadastrar.Location = new System.Drawing.Point(11, 438);
-            this.btnCadadastrar.Name = "btnCadadastrar";
-            this.btnCadadastrar.Size = new System.Drawing.Size(362, 40);
-            this.btnCadadastrar.TabIndex = 19;
-            this.btnCadadastrar.Text = "Cadastrar";
-            this.btnCadadastrar.UseVisualStyleBackColor = false;
+            this.btnCadastrar.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(51)))), ((int)(((byte)(56)))), ((int)(((byte)(98)))));
+            this.btnCadastrar.Cursor = System.Windows.Forms.Cursors.Hand;
+            this.btnCadastrar.FlatAppearance.BorderSize = 0;
+            this.btnCadastrar.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.btnCadastrar.Font = new System.Drawing.Font("Segoe UI", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
+            this.btnCadastrar.ForeColor = System.Drawing.Color.White;
+            this.btnCadastrar.Location = new System.Drawing.Point(11, 438);
+            this.btnCadastrar.Name = "btnCadastrar";
+            this.btnCadastrar.Size = new System.Drawing.Size(362, 40);
+            this.btnCadastrar.TabIndex = 19;
+            this.btnCadastrar.Text = "Cadastrar";
+            this.btnCadastrar.UseVisualStyleBackColor = false;
             // 
             // cbxMostraSenha
             // 
@@ -262,7 +262,7 @@
             this.ClientSize = new System.Drawing.Size(385, 545);
             this.Controls.Add(this.cbxMostraSenha);
             this.Controls.Add(this.btnEntrar);
-            this.Controls.Add(this.btnCadadastrar);
+            this.Controls.Add(this.btnCadastrar);
             this.Controls.Add(this.pcbSenha);
             this.Controls.Add(this.txbSenha);
             this.Controls.Add(this.pcbTelefone);
@@ -312,7 +312,7 @@
         private PictureBox pcbTelefone;
         private TextBox txbTelefone;
         private Button btnEntrar;
-        private Button btnCadadastrar;
+        private Button btnCadastrar;
         private CheckBox cbxMostraSenha;
     }
 }

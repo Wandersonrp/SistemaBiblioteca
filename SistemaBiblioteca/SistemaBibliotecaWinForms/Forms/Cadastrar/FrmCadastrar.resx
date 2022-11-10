@@ -107,7 +107,7 @@
   <data name="pcbEmail.Image" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
     <value>
         iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAABGdBTUEAALGPC/xhBQAAAAlwSFlzAAAL
-        DwAACw8BkvkDpQAAAWdJREFUWEft1L8rhVEcx/GLopQyKiU2TBablJSy2KxGP/4CJkxYjRYGm82gSJmU
+        DQAACw0B7QfALAAAAWdJREFUWEft1L8rhVEcx/GLopQyKiU2TBablJSy2KxGP/4CJkxYjRYGm82gSJmU
         HyVSNgOLUmJQyI94f+o59e10vl23p7udT72G+z3fc3qe55xzKzk5OTlRlvBbZ5twM4MFPCM1uYw3rGEW
         btR4hWGo+b2olfGDHQzhqKi5CZM+sYxubOAbYawWhxjANF6Lmrixk+UUfeiH3iIe95xjBF3QQ8TjbuJG
         0TbMowmjuECqT+4whQZMwjtLblLNwQl6ERa/RRh7gh6yBR3YhZ0bc5NqtuagNKIZ+sxjaIWi+gSqnRk3
@@ -119,7 +119,7 @@
   <data name="pcbCPF.Image" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
     <value>
         iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAABGdBTUEAALGPC/xhBQAAAAlwSFlzAAAL
-        DwAACw8BkvkDpQAAAU1JREFUWEft1rlKBEEQxvF5Bh/ENzFUFFQMRDATRbxyL8xcBNHAxzATTUwEBcVA
+        DQAACw0B7QfALAAAAU1JREFUWEft1rlKBEEQxvF5Bh/ENzFUFFQMRDATRbxyL8xcBNHAxzATTUwEBcVA
         UBQDxRvPwPNf0AXF7G5vsTseYBf82J7e6Z4PunuYLFWqVKaa0PdD5Fll1YzPnA/c5fqKIM8qq3yATbRi
         DO14gP2/Ea4AHXgP7T3MhXYRXAG6TfsG4+a6kktsRbxB73UFGMRpaC9gPbSr2cdiFUt4ht7rCnCFFgxh
         IPQVpWaAFyzjBGdYxQbsJBcYcRrFPXRsNIA8rC38dqILJcxD9oXsB51I2h630DEiGkB2v71ZlkLbB5g0
@@ -145,7 +145,7 @@
   <data name="pcbTelefone.Image" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
     <value>
         iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAABGdBTUEAALGPC/xhBQAAAAlwSFlzAAAL
-        DwAACw8BkvkDpQAAAXVJREFUWEftl00rB1EUxgc7Pgf5GJRCtl4W9uQzUGRDfAJve/aKUt42FiyxkT12
+        DQAACw0B7QfALAAAAXVJREFUWEftl00rB1EUxgc7Pgf5GJRCtl4W9uQzUGRDfAJve/aKUt42FiyxkT12
         NkSK5zfdW6eJxb33iMU89as5p3vPeWbu+Tf/qX5R0+JZjNXRH2hDfIqVOspUh1gW1+I+Ee4eAyciW1OC
         IiVciGzx+CiyL4YSuRPsPRbZWhUU4TxTtSPYu1ZHmSoxEIeQGtlqDfwbA0diIhH2uBkooTXgauCtEX8E
         bK65xs0AL6RuMRtiGveKvnBNbkaw5ibE4GaAohSfCzFNad4frslhrkfchhjcDMB7I6ZxbB5prnE1kIOb
