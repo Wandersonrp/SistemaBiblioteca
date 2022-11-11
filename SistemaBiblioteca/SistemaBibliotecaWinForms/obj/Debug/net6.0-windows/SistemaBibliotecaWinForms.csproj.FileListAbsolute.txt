@@ -18,3 +18,5 @@ C:\Desenvolvimento\SistemaBiblioteca\SistemaBiblioteca\SistemaBibliotecaWinForms
 C:\Desenvolvimento\SistemaBiblioteca\SistemaBiblioteca\SistemaBibliotecaWinForms\obj\Debug\net6.0-windows\SistemaBibliotecaWinForms.Forms.Cadastrar.FrmCadastrar.resources
 C:\Desenvolvimento\SistemaBiblioteca\SistemaBiblioteca\SistemaBibliotecaWinForms\obj\Debug\net6.0-windows\SistemaBibliotecaWinForms.Forms.Login.FrmLogin.resources
 C:\Desenvolvimento\SistemaBiblioteca\SistemaBiblioteca\SistemaBibliotecaWinForms\obj\Debug\net6.0-windows\SistemaBibliotecaWinForms.Forms.CadastrarLivros.FrmCadLivro.resources
+C:\Desenvolvimento\SistemaBiblioteca\SistemaBiblioteca\SistemaBibliotecaWinForms\obj\Debug\net6.0-windows\SistemaBibliotecaWinForms.Forms.PesquisarLivro.FrmPesquisarLivro.resources
+C:\Desenvolvimento\SistemaBiblioteca\SistemaBiblioteca\SistemaBibliotecaWinForms\obj\Debug\net6.0-windows\SistemaBibliotecaWinForms.Forms.SituacaoLivro.FrmSituacaoLivro.resources
